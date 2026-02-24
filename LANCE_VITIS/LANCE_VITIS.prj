@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="LANCE_VITIS" location="C:/Users/fabio/Desktop/Desktop/GitHub/LANCE_VITIS" platform="C:/Users/fabio/Desktop/Desktop/GitHub/LANCE_VIVADO/export/LANCE_VIVADO/LANCE_VIVADO.xpfm" platformUID="xilinx.com:pynq-z2::1.0(custom)" systemProject="LANCE_VITIS_system" sysConfig="LANCE_VIVADO" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="50fe383d63ad2f6bcc13d72bd0be9f6c">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.806970408">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.2044500353" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="lwip_echo_server" hasBspSettings="true"/>
+</sdkproject:SdkProject>

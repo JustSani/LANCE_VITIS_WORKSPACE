@@ -1,0 +1,1 @@
+int load_partial_bitstream(int bit_stream_location,int bit_stream_size_words);

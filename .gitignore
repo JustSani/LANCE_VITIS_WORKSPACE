@@ -1,0 +1,21 @@
+# Escludi file temporanei di Eclipse/Vitis
+.metadata/
+RemoteSystemsTempFiles/
+.analytics/
+
+# Escludi le cartelle di compilazione (Output)
+**/Debug/
+**/Release/
+**/obj/
+
+# Escludi file binari pesanti
+*.elf
+*.bit
+*.ba
+*.jou
+*.log
+
+# Mantieni i file di configurazione e i sorgenti
+!**/src/
+!*.xsa
+!*.vitis
