@@ -9,3 +9,13 @@ timestamp=[2026-02-24 16:37:10], mode=BUILD, duration=0:00:00.828, duration_ms=8
 timestamp=[2026-02-25 14:35:37], mode=WORKBENCH_START, duration=0:01:18.913, duration_ms=78913, data={}
 timestamp=[2026-02-25 14:35:43], mode=WORKBENCH_UI_INIT, duration=0:00:05.925, duration_ms=5925, data={editors_count=9, platform_editors_count=0, projects_count=4, platform_projects_count=0, active_platform_editor=false, projects=LANCE_VITIS,LANCE_VITIS_system,LANCE_VIVADO,RemoteSystemsTempFiles}
 timestamp=[2026-02-25 14:35:47], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:06.970, duration_ms=6970, data={}
+timestamp=[2026-02-25 15:32:15], mode=BUILD, duration=0:00:07.604, duration_ms=7604, data={name=LANCE_VITIS, configuration=Debug, clean_build=false}
+timestamp=[2026-02-25 15:32:30], mode=BUILD, duration=0:00:14.223, duration_ms=14223, data={name=LANCE_VITIS_system, configuration=Debug, clean_build=false}
+timestamp=[2026-02-25 15:38:35], mode=BUILD, duration=0:00:06.637, duration_ms=6637, data={name=LANCE_VITIS, configuration=Debug, clean_build=false}
+timestamp=[2026-02-25 15:38:36], mode=BUILD, duration=0:00:01.325, duration_ms=1325, data={name=LANCE_VITIS_system, configuration=Debug, clean_build=false}
+timestamp=[2026-02-25 15:39:30], mode=BUILD, duration=0:00:01.759, duration_ms=1759, data={name=LANCE_VITIS, configuration=Debug, clean_build=false}
+timestamp=[2026-02-25 16:03:17], mode=WORKBENCH_START, duration=0:00:37.068, duration_ms=37068, data={}
+timestamp=[2026-02-25 16:03:23], mode=WORKBENCH_UI_INIT, duration=0:00:06.324, duration_ms=6324, data={editors_count=10, platform_editors_count=0, projects_count=4, platform_projects_count=0, active_platform_editor=false, projects=LANCE_VITIS,LANCE_VITIS_system,LANCE_VIVADO,RemoteSystemsTempFiles}
+timestamp=[2026-02-25 16:03:27], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:07.943, duration_ms=7943, data={}
+timestamp=[2026-02-25 16:03:56], mode=BUILD, duration=0:00:00.875, duration_ms=875, data={name=LANCE_VITIS, configuration=Debug, clean_build=false}
+timestamp=[2026-02-25 16:04:08], mode=BUILD, duration=0:00:00.436, duration_ms=436, data={name=LANCE_VITIS, configuration=Debug, clean_build=false}
