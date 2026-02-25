@@ -6,3 +6,6 @@ timestamp=[2026-02-24 16:37:00], mode=WORKBENCH_START, duration=0:00:09.156, dur
 timestamp=[2026-02-24 16:37:02], mode=WORKBENCH_UI_INIT, duration=0:00:01.640, duration_ms=1640, data={editors_count=9, platform_editors_count=0, projects_count=4, platform_projects_count=0, active_platform_editor=false, projects=LANCE_VITIS,LANCE_VITIS_system,LANCE_VIVADO,RemoteSystemsTempFiles}
 timestamp=[2026-02-24 16:37:04], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.978, duration_ms=978, data={}
 timestamp=[2026-02-24 16:37:10], mode=BUILD, duration=0:00:00.828, duration_ms=828, data={name=LANCE_VITIS, configuration=Debug, clean_build=false}
+timestamp=[2026-02-25 14:35:37], mode=WORKBENCH_START, duration=0:01:18.913, duration_ms=78913, data={}
+timestamp=[2026-02-25 14:35:43], mode=WORKBENCH_UI_INIT, duration=0:00:05.925, duration_ms=5925, data={editors_count=9, platform_editors_count=0, projects_count=4, platform_projects_count=0, active_platform_editor=false, projects=LANCE_VITIS,LANCE_VITIS_system,LANCE_VIVADO,RemoteSystemsTempFiles}
+timestamp=[2026-02-25 14:35:47], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:06.970, duration_ms=6970, data={}

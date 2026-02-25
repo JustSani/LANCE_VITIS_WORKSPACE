@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sdx:platform sdx:vendor="xilinx.com"
+              sdx:library="sdx"
+              sdx:name="LANCE_VIVADO"
+              sdx:version="1.0"
+              sdx:schemaVersion="1.0"
+              xmlns:sdx="http://www.xilinx.com/sdx">
+    <sdx:description>
+LANCE_VIVADO
+    </sdx:description>
+    <sdx:systemConfigurations sdx:defaultConfiguration="LANCE_VIVADO">
+        <sdx:configuration sdx:name="LANCE_VIVADO"
+                           sdx:displayName="LANCE_VIVADO"
+                           sdx:defaultProcessorGroup="standalone_ps7_cortexa9_0"
+                           sdx:runtimes="cpp">
+            <sdx:description>LANCE_VIVADO</sdx:description>
+            <sdx:bootImages sdx:default="standard">
+                <sdx:image sdx:name="standard"
+                            sdx:bif=""
+                            sdx:imageData=""
+                            sdx:readme="LANCE_VIVADO/boot/generic.readme"
+                            sdx:qemuArguments="LANCE_VIVADO/qemu/qemu_args.txt"
+                            />
+                <sdx:image sdx:name="standalone_ps7_cortexa9_0"
+                            sdx:bif="LANCE_VIVADO/boot/LANCE_VIVADO.bif"
+                            sdx:readme="LANCE_VIVADO/boot/generic.readme"
+                            sdx:qemuArguments="LANCE_VIVADO/standalone_ps7_cortexa9_0/qemu/qemu_args.txt"
+                            />
+            </sdx:bootImages>
+            <sdx:processorGroup sdx:name="standalone_ps7_cortexa9_0"
+                                sdx:displayName="standalone_ps7_cortexa9_0"
+                                sdx:cpuType="cortex-a9"
+                                sdx:cpuInstance="ps7_cortexa9_0">
+                <sdx:os sdx:name="standalone"
+                        sdx:displayName="standalone"
+                        sdx:bspLibraryPaths="LANCE_VIVADO/standalone_ps7_cortexa9_0/bsplib/lib"
+                        sdx:bspIncludePaths="LANCE_VIVADO/standalone_ps7_cortexa9_0/bspinclude/include"
+                        sdx:bspConfig="LANCE_VIVADO/standalone_ps7_cortexa9_0/system.mss"
+                />
+            </sdx:processorGroup>
+        </sdx:configuration>
+    </sdx:systemConfigurations>
+</sdx:platform>
