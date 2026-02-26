@@ -35,6 +35,8 @@ extern struct netif *echo_netif; // Riferimento all'interfaccia di rete del main
 extern int load_partial_bitstream(u32 address, u32 size);
 
 
+
+
 /* =========================================================================
  * PARTE 1: TCP SERVER (RICEZIONE)
  * ========================================================================= */
