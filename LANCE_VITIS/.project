@@ -3,7 +3,7 @@
 	<name>LANCE_VITIS</name>
 	<comment>Created by Vitis v2023.1</comment>
 	<projects>
-		<project>LANCE_VIVADO</project>
+		<project>LANCE_VIVADO_V2</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
